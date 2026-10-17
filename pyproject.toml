@@ -1,0 +1,9 @@
+[project]
+name = "smart-file-organizer"
+version = "1.0.1"
+description = "A local-first desktop file organizer with preview, collision-safe moves, undo, and duplicate detection"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.unittest]
+test-directory = "tests"
